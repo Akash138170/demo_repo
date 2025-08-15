@@ -1,4 +1,5 @@
 # demo_repo
+
 This is my first Git Repository
 <br>
-Author Akash Rajput
+Author Akash (Rajput singh)
